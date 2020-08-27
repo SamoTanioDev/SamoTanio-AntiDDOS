@@ -2,7 +2,7 @@
 /*
 Plugin Name: SamoTanio-AntiDDOS
 Description: Anti-DDOS
-Author: WPChef
+Author: WPChef & SamoTanio
 Author URI: http://github.com/SamoTanioDev/
 Text Domain: anti-ddos
 Version: 1.0
